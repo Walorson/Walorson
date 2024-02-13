@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Walorson
-- Im working on "Co to za piosenka?" at the moment. :)
+- Im working on "SG-Blocks" at the moment. :)
 
 <!---
 Walorson/Walorson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
