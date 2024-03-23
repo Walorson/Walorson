@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Walorson
 - Im working on "SG-Blocks" at the moment. :)
+- Poland ⚪🔴
 
 <!---
 Walorson/Walorson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
