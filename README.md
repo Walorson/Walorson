@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Walorson
-- Im working on "SG-Blocks" at the moment. :)
+- Im working on "Guess The Number 2" at the moment. :)
 - Poland ⚪🔴
 
 <!---
